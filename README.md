@@ -1,4 +1,4 @@
-# Python_PostgreSQL
+# python_postgreesql
 Introduction
 
 This project showcases a simple Python script that utilizes the psycopg2 module to interact with a PostgreSQL database. The script covers three main features: sorting records by name, searching records by state, and updating the state of a specific record. It demonstrates how to connect to the PostgreSQL database, create a table if it doesn't exist, and perform these operations on the table.
@@ -14,7 +14,7 @@ Getting Started
 
     bash
 
-git clone https://github.com/your-username/Python_PostgreSQL.git
+git clone https://github.com/natalia-dias01/python_postgreesql.git
 cd Python_PostgreSQL
 
 Set Up PostgreSQL:
